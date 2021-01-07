@@ -7,7 +7,7 @@ function randomValueFromArray(array){
   return array[random];
 }
 
-let storyText = ':insertx:はお正月太りをしてしまった。大好きなお餅を食べ過ぎてしまったのだ。なので、:insertx:は健康的な自炊をしてダイエットに励むことにした。:inserty:でいい感じのレシピをたくさん調べてたくさんのものを作っていくにつれて料理が趣味になってしまった。結果として体重は5kg:insertz:。';
+let storyText = ':insertx:はお正月太りをしてしまった。大好きなお餅を食べ過ぎてしまったのだ。なので、:insertx:は健康的な自炊をしてダイエットに励むことにした。:inserty:でいい感じのレシピをたくさん調べてたくさんのものを作っていくにつれて料理が趣味になってしまった。結果として5kg:insertz:。';
 let insertX = ['あい','パパ'];
 let insertY = ['テレビ','クックパット','クラシル'];
 let insertZ = ['増えた','以上増えた','の二倍くらい増えた'];
